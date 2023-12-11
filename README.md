@@ -1,5 +1,7 @@
 # React + Vite
 Pagina del clima elaborada en React
+
+
 [![Alt text](https://img.youtube.com/vi/CpFbjvos9uM/0.jpg)](https://www.youtube.com/watch?v=CpFbjvos9uM)
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
